@@ -19,6 +19,11 @@ public class Test02 {
 		String str3 = String.valueOf(i1);//정수 또는 실수를 문자열로 변환
 		//문자열로 변환해서 구분할 수 있음
 		System.out.println(i1);
+		
+		String str4 = 1 + 2 + "3";
+		System.out.println(str4);
+		
+		
 	}
 
 }
